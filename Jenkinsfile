@@ -3,7 +3,7 @@ pipeline {
 	
 	
 	environment {
-				 PROJECT_ID = 'solid-altar-444910-c9'
+	 PROJECT_ID = 'solid-altar-444910-c9'
          CLUSTER_NAME = 'cluster-1'
          LOCATION = 'us-central1'
          CREDENTIALS_ID = 'kubernetes'		
