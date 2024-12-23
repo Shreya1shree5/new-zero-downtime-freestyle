@@ -6,7 +6,7 @@ pipeline {
 	 PROJECT_ID = 'solid-altar-444910-c9'
          CLUSTER_NAME = 'cluster-1'
          LOCATION = 'us-central1'
-         CREDENTIALS_ID = 'kubernetesss'		
+         CREDENTIALS_ID = 'kubernetes'		
 	}
 	
     stages {
